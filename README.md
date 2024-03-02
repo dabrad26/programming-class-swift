@@ -1,3 +1,3 @@
-# Swift Playgrounds
+# Programming Classes with Swift
 
-Swift Playgrounds for school and other experiments. Each directory is for school class or project where I saved my Swift Playgrounds. These playgrounds are for learning or experimenting with new Swift stuff. Just wanted to save them for future reference.
+Swift programming classes assignments and lecture content from taking courses.  Content is based on each class and has assignments and testing I did following along with lectures (Lecture Content).
